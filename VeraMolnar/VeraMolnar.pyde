@@ -99,7 +99,7 @@ def draw():
         for j in range(8):
             y=100+104*j
             rectMode(CENTER)
-            strokeWeight(1.5)
+            strokeWeight(2)
             
             for t0 in range(10):
                     if (i,j)==l0[t0]:
